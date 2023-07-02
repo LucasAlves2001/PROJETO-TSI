@@ -1,2 +1,4 @@
 # Projeto Final
- Projeto desenvolvido em HTML e CSS, usando site do instituto como inspiração
+ Projeto desenvolvido somente em HTML e css.
+
+ Projeto teve como inspiração o site do IFSP-BIRIGUI, na página onde mostra o Curso de TSI.
